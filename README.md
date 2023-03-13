@@ -1,4 +1,4 @@
-### Steps ###
+### <ins>Steps
 
 #### Step1: Clone the wasm github repo ####
 
