@@ -1,17 +1,17 @@
 ### Steps ###
 
-## Step1: Clone the wasm github repo 
+#### Step1: Clone the wasm github repo ####
 
-## Step2: Build the wasm binary using the Docker env 
-
-
-## Step3: Clone the Cosmwasm contract examples
+#### Step2: Build the wasm binary using the Docker env ####
 
 
-## Step4: Build the smart contract 
+#### Step3: Clone the Cosmwasm contract examples ####
 
 
-## Step5: Deploy the smart contract to the wasm chain 
+#### Step4: Build the smart contract ####
+
+
+#### Step5: Deploy the smart contract to the wasm chain ####
 
 
 
